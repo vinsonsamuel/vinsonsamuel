@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vinsonsamuel
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on projects related to Java and Web Development
+- 📫 Reach me through this mailid vinsonsamuel15@gmail.com
